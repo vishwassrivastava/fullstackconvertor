@@ -5,9 +5,7 @@ const app = express();
 app.use(express.json());
 
 
-app.use(cors({
-  origin: 'https://fullstackconvertor.vercel.app' // Allow your frontend origin
-}));
+app.use(cors());
 app.get("/", (req, res) => {
   res.send("heelppp");
 });
