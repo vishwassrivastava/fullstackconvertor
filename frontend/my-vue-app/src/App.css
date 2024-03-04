@@ -1,0 +1,33 @@
+body{
+ justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 20px;
+  font-size:35px;
+}
+.translate{
+margin-top: 20px;
+}
+textarea{
+ height: 100px;
+  width: 350px;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  
+}
+
+.btn{
+
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
