@@ -9,7 +9,7 @@ const App = () => {
   };
   const Submit = async () => {
     try {
-      await axios.post("https://conertor-backend.vercel.app/translate", body).then((res) => {
+      await axios.post("https://fullstackconvertor.vercel.app/translate", body).then((res) => {
         setOutput(res.data.translation);
       });
     } catch (error) {
