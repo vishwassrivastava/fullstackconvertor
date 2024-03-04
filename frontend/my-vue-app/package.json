@@ -1,7 +1,7 @@
 {
   "name": "my-vue-app",
   "private": true,
-   "proxy":"https://conertor-backend.vercel.app/"
+   "proxy":"https://conertor-backend.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
