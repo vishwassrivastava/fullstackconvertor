@@ -1,7 +1,7 @@
 {
   "name": "my-vue-app",
 
-   "proxy":"https://conertor-backend.vercel.app/",
+   "proxy":"https://fullstackconvertor.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
